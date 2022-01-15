@@ -34,4 +34,4 @@ jobs:
           context: .
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: nbmaiti/simplewhale:$(date +%s)
+          tags: nbmaiti/simplewhale:latest_$(date +%s)
