@@ -6,4 +6,4 @@ Build me: `docker build -t nmaiti/simplewhaledemo .`
 
 
 check on webpage 
-127.0.0
+127.0.0.1:8080
